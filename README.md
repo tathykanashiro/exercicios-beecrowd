@@ -4,7 +4,7 @@ beecrowd é uma plataforma digital de serviços profissionais impulsionada pela 
 
 Meu perfil na plataforma: https://www.beecrowd.com.br/judge/pt/profile/813489
 
-Problemas de programação Java
+Problemas de programação Java.
 Deixarei dispónivel aqui todos os problemas que eu conseguir resolver na plataforma da beecrowd.
 
 Este tipo de site é muito importante para a prática, com diferentes tipos de problemas que testam a nossa habilidade com a linguagem.
