@@ -11,4 +11,4 @@ Este tipo de site é muito importante para a prática, com diferentes tipos de p
 Nível Iniciante
 Problemas já resolvidos:
 
-1000, 1001, 1002, 1003, 1004, 1007, 1008, 1010, 1012, 1014, 1016, 1017, 1044.
+1000, 1001, 1002, 1003, 1004, 1005, 1007, 1008, 1010, 1012, 1014, 1016, 1017, 1044, 1067, 1072, 1079, 1114, 1115, 1134, 1153, 1157.
